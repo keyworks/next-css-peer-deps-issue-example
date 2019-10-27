@@ -1,0 +1,20 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jkim",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@zeit/next-css": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "installConfig": {
+    "pnp": true
+  },
+  "dependencies": {
+    "webpack": "^4.41.2"
+  }
+}

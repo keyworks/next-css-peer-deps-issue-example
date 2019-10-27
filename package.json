@@ -1,0 +1,14 @@
+{
+  "name": "pnp-broken-peer-deps-in-workspaces",
+  "workspaces": [
+    "a"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jkim",
+  "license": "MIT",
+  "private": true,
+  "installConfig": {
+    "pnp": true
+  }
+}

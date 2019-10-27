@@ -1,0 +1,1 @@
+require('@zeit/next-css');
