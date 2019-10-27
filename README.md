@@ -6,6 +6,7 @@ yarn start
 ```
 
 **Expected:** No output
+
 **Actual:**
 ```
 jkim@jkim-2MBFH05 a (master) $ yarn start
